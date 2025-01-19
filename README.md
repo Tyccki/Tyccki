@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on idkkk
 - 📫 How to reach me idkkk
-- 😄 Pronouns: idkkk
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i love to create mini games!!!!
 
 <!---
